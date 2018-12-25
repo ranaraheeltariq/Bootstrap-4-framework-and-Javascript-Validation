@@ -1,0 +1,12 @@
+html,
+body {
+  height: 100%;
+  background-color: whitesmoke;
+}
+
+.align-self-center {
+  width: 500px;
+  text-align: center;
+  padding: 30px;
+  background-color: #fff;
+}
